@@ -13,7 +13,7 @@ public class calc {
         return a-b;
     }
     private static double func_mul(double a, double b){
-        return 2*a;
+        return a*b;
     }
 
 }
